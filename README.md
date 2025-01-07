@@ -1,4 +1,4 @@
-**Hi, I'm Cloddh** \n
-**Hobby:** learning several programming languages
-**Best language:** obviously Python (but also C is not that bad)
-**Worst "language":** html. Bleah.
+**Hi, I'm Cloddh** <br>
+**Hobby:** learning several programming languages <br>
+**Best language:** obviously Python (but also C is not that bad) <br>
+**Worst "language":** html. Bleah. <br>
